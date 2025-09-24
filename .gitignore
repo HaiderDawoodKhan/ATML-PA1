@@ -2,3 +2,11 @@ stl_data
 stl10_export
 resnet_finetuned.pth
 vit_finetuned.pth
+data
+cifar100_data
+cifar_data
+checkpoint_imagenet
+checkpoints_gans
+checkpoints_vae
+vae_test_latents_cifar10.npz
+vae_test_latents_cifar10_tsne.npz
